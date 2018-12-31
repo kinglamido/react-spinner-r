@@ -1,0 +1,23 @@
+{
+  "name": "react-spinner-r",
+  "version": "1.0.0",
+  "description": "css-spinners for react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kinglamido/react-spinner-r.git"
+  },
+  "keywords": [
+    "react",
+    "css"
+  ],
+  "author": "phantom",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kinglamido/react-spinner-r/issues"
+  },
+  "homepage": "https://github.com/kinglamido/react-spinner-r#readme"
+}
